@@ -68,7 +68,7 @@ with menus and admin ui.The application is built using HTML, CSS, and JavaScript
   
   ![image](https://github.com/Akash8292/Food-Delivery-system/assets/97883391/8df55d1e-00af-4d5a-a1c1-b7bc2a4c8bab)
 
- ## contributer
+ ## Contributors
  
  * Shriram Ashok Birajdar
  * Jayesh chak
